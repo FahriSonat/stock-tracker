@@ -1,5 +1,0 @@
-# Tüm metin dosyaları Git'e atılırken LF'e çevrilsin, checkout edilirken işletim sistemine uyarlansın
-* text=auto
-
-# Kesinlikle LF kalması gereken dosyalar (örnek: shell scriptleri)
-*.sh text eol=lf
